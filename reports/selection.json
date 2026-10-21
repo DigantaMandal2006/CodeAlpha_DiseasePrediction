@@ -1,0 +1,7 @@
+{
+  "selected_model": "LogisticRegression",
+  "selection_rule": "Highest mean training-only 5-fold CV ROC-AUC",
+  "seed": 42,
+  "threshold": 0.5,
+  "test_used_for_selection": false
+}

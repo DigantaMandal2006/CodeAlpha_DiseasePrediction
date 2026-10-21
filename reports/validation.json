@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "checks": [
+    "model reload and batch prediction",
+    "column reordering",
+    "missing column rejected",
+    "extra column rejected",
+    "infinity rejected",
+    "empty input rejected",
+    "all missing rejected",
+    "negative value rejected",
+    "569 unique split indices",
+    "all four algorithms evaluated"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "samples": 569,
+  "features": 30,
+  "missing_values": 0,
+  "duplicate_feature_rows": 0,
+  "benign": 357,
+  "malignant": 212,
+  "train_rows": 455,
+  "test_rows": 114
+}
